@@ -1,0 +1,21 @@
+.container{
+ padding: 0 20px ;
+ margin: 0 auto;
+}
+
+.header{
+    padding: 20px 0;
+}
+
+.header-nav{
+    display: flex;
+    flex-direction:column-reverse;
+    align-items: center;
+    gap: 112px;
+}
+
+.header-list{
+    display: flex;
+    align-items: center;
+    gap: 4px;
+}
